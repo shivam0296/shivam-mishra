@@ -7,8 +7,8 @@
 
 title: Shivam Mishra
 description: "A professional portfolio showcasing data science projects and skills."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shivam0296.github.io" # the base hostname & protocol for your site
+logo: /assets/img/profile.jpg
+show_downloads: true
 theme: jekyll-theme-cayman
 
 # Build settings
