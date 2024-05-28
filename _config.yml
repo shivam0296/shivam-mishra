@@ -14,41 +14,23 @@ theme: jekyll-theme-cayman
 # Build settings
 markdown: kramdown
 
-# Google Analytics
 #google_analytics: UA-XXXXXXXX-X
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - Rakefile
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
 
 # Social media settings
 social:
   github: "https://github.com/shivam0296"
   linkedin: "https://www.linkedin.com/in/shivam-mishra0296/"
-  twitter: yourhandle
 
-# Customizing the look and feel
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-  - contact.md
+# header_pages:
+#   - index.md
+#   - projects.md
+#   - about.md
+#   - contact.md
 
-# Author settings
 author:
   name: "Shivam Mishra"
   email: "mishras0297@gmail.com"
   
-
-# Include these settings if the theme supports them
 show_excerpts: true
 paginate: 5
 paginate_path: "/page:num/"
