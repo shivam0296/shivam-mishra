@@ -2,4 +2,5 @@ title: Shivam Mishra
 logo: /assets/img/profile.jpg
 description: Hello there
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: cayman
+#jekyll-theme-minimal
