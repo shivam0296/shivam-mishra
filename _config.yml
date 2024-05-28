@@ -1,6 +1,61 @@
-title: Shivam Mishra
-logo: /assets/img/profile.jpg
-description: Hello there
-show_downloads: true
-theme: cayman
+# title: Shivam Mishra
+# logo: /assets/img/profile.jpg
+# description: Hello there
+# show_downloads: true
+# theme: cayman
 #jekyll-theme-minimal
+
+title: Shivam Mishra
+description: "A professional portfolio showcasing data science projects and skills."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shivam0296.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+
+# Google Analytics
+#google_analytics: UA-XXXXXXXX-X
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Rakefile
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Social media settings
+social:
+  github: "https://github.com/shivam0296"
+  linkedin: "https://www.linkedin.com/in/shivam-mishra0296/"
+  twitter: yourhandle
+
+# Customizing the look and feel
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
+
+# Author settings
+author:
+  name: "Shivam Mishra"
+  email: "mishras0297@gmail.com"
+  
+
+# Include these settings if the theme supports them
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
