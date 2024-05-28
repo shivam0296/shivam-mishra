@@ -9,7 +9,7 @@ title: Shivam Mishra
 description: "A professional portfolio showcasing data science projects and skills."
 logo: /assets/img/profile.jpg
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: minimal
 
 # Build settings
 markdown: kramdown
