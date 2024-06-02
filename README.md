@@ -1,5 +1,5 @@
 # Software Developer (Big Data)
-**[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)**  
+**[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)** | **[Github](https://github.com/shivam0296)**
 ![skills](/assets/img/skills_img.png)
 
 
@@ -8,7 +8,7 @@
 - MSc. Data Science  
 Indiana University Bloomington (_Aug 2022 - May 2024_)
 
-- B.Tech, Electronics and Communication |  
+- B.Tech, Electronics and Communication  
 Vellore Institute of technology (_May 2015 - Apr 2019_)s
 
 ## Work Experience

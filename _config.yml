@@ -6,7 +6,7 @@
 #jekyll-theme-minimal
 
 title: Shivam Mishra
-description: "Professional Portfolio"
+#description: ""
 logo: /assets/img/profile_image.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
