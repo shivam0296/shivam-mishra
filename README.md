@@ -1,12 +1,13 @@
 # Software Developer (Big Data)
+**[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)**
 
 ## Education
 
-- MSc. Data Science |  
-Indiana University Bloomington (_May 2024_)
+- MSc. Data Science  
+Indiana University Bloomington (_Aug 2022 - May 2024_)
 
 - B.Tech, Electronics and Communication |  
-Vellore Institute of technology (_Apr 2019_)
+Vellore Institute of technology (_May 2015 - Apr 2019_)s
 
 ## Work Experience
 
@@ -47,17 +48,17 @@ Vellore Institute of technology (_Apr 2019_)
 
 ## TECHNICAL SKILLS
 
-- Programming Languages |  
+- Programming Languages:  
 _C, C++, Python, SQL, R, Perl, Java, JavaScript, HTML , Bash_
 
-- Databases |  
+- Databases :  
 _Sybase, Oracle, Microsoft SQL Server, PostgreSQL, MongoDB, Neo4_
 
-- Business Intelligence |  
+- Business Intelligence :  
 _Tableau, Power BI, MS Excel, Grafana, Databricks_
 
-- Cloud Platforms |  
+- Cloud Platforms :  
 _AWS (S3, Glue ETL, Lambda, Athena), Azure (DevOps), Snowflake, GCP (BigQuery)_
 
-- ETL Tools & ML |  
+- ETL Tools & ML :  
 _Hadoop, PySpark, Pandas, Kafka, Kubernetes, Docker, Scikit-learn, MLlib, PyTorch_
