@@ -1,5 +1,7 @@
 # Software Developer (Big Data)
-**[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)**
+**[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)**  
+![skills](/assets/img/skills.png)
+
 
 ## Education
 
