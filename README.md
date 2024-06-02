@@ -2,8 +2,11 @@
 
 ## Education
 
-- MSc., Data Science | Indiana University Bloomington (_May 2024_)	
-- B.Tech, Electronics and Communication | Vellore Institute of technology (_Apr 2019_)
+- MSc. Data Science |  
+Indiana University Bloomington (_May 2024_)
+
+- B.Tech, Electronics and Communication |  
+Vellore Institute of technology (_Apr 2019_)
 
 ## Work Experience
 
@@ -26,27 +29,35 @@
 
 ## ACADEMIC PROJECTS
 
-**Travel Buddy Web Application [GitHub](https://github.com/shivam0296/travel-backend)** (_Aug 2022 - May 2023_) | (_Python, MySQL, Flask, React_)
+**Travel Buddy Web Application [GitHub](https://github.com/shivam0296/travel-backend)** (_Aug 2022 - May 2023_) |  
+(_Python, MySQL, Flask, React_)
 - Developed Travel Buddy to connect like-minded travellers, enabling them to create profiles, share travel plans, find companions, and access personalized packages from travel agents.
 - Designed a robust Flask backend to manage various services, including storing user information, travel plans, and connecting users with tour guides based on destination.
 - Created an efficient and normalized MySQL schema to store client details, user actions, and destination information.
 
-**Stocks Recommendation System [GitHub](https://github.com/shivam0296/stocks-recommendation-system)** (_Aug 2023 - Dec 2023_) | (_Neural Networks, Natural Language Processing_)
+**Stocks Recommendation System [GitHub](https://github.com/shivam0296/stocks-recommendation-system)** (_Aug 2023 - Dec 2023_) |  
+(_Neural Networks, Natural Language Processing_)
 - Developed an RNN-based stock recommendation system to predict stock prices and assist users in making better investment decisions to improve portfolio.
 - Incorporated VADER analysis to analyze market news sentiments alongside prices for informed decisions. Integrated visualizations into web applications for enhanced user experience.
 
-**Creative Arts For Veterans** (_Sept 2023 - Mar 2024_) | (_Python, Tableau, Hive, Qualtrics_)
+**Creative Arts For Veterans** (_Sept 2023 - Mar 2024_) |  
+(_Python, Tableau, Hive, Qualtrics_)
 - As part of Center for Rural Engagement, worked on Veterans Project for managing book distributions using Hive.
 - Utilized Python and Tableau to analyze Veterans feedback data from Qualtrics Survey, demonstrating the positive impact of the CAV book on veterans’ lives, resulting in securing a $60,000 grant.
 
 ## TECHNICAL SKILLS
 
-- Programming Languages | _C, C++, Python, SQL, R, Perl, Java, JavaScript, HTML , Bash_
+- Programming Languages |  
+_C, C++, Python, SQL, R, Perl, Java, JavaScript, HTML , Bash_
 
-- Databases | _Sybase, Oracle, Microsoft SQL Server, PostgreSQL, MongoDB, Neo4_
+- Databases |  
+_Sybase, Oracle, Microsoft SQL Server, PostgreSQL, MongoDB, Neo4_
 
-- Business Intelligence | _Tableau, Power BI, MS Excel, Grafana, Databricks_
+- Business Intelligence |  
+_Tableau, Power BI, MS Excel, Grafana, Databricks_
 
-- Cloud Platforms | _AWS (S3, Glue ETL, Lambda, Athena), Azure (DevOps), Snowflake, GCP (BigQuery)_
+- Cloud Platforms |  
+_AWS (S3, Glue ETL, Lambda, Athena), Azure (DevOps), Snowflake, GCP (BigQuery)_
 
-- ETL Tools & ML | _Hadoop, PySpark, Pandas, Kafka, Kubernetes, Docker, Scikit-learn, MLlib, PyTorch_
+- ETL Tools & ML |  
+_Hadoop, PySpark, Pandas, Kafka, Kubernetes, Docker, Scikit-learn, MLlib, PyTorch_
