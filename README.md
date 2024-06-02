@@ -30,7 +30,7 @@ Vellore Institute of technology (_May 2015 - Apr 2019_)s
 - Participated in code reviews and conducted unit test evaluations to reduce production vulnerabilities.
 - Trained and optimized regression models on portfolio SLA data to predict green package report delays, resulting in a 20% reduction in service agreement delays and achieving cost savings of $50,000.
 
-## ACADEMIC PROJECTS
+## Academic Projects
 
 **Travel Buddy Web Application [GitHub](https://github.com/shivam0296/travel-backend)** (_Aug 2022 - May 2023_) |  
 (_Python, MySQL, Flask, React_)
@@ -48,7 +48,7 @@ Vellore Institute of technology (_May 2015 - Apr 2019_)s
 - As part of Center for Rural Engagement, worked on Veterans Project for managing book distributions using Hive.
 - Utilized Python and Tableau to analyze Veterans feedback data from Qualtrics Survey, demonstrating the positive impact of the CAV book on veterans’ lives, resulting in securing a $60,000 grant.
 
-## TECHNICAL SKILLS
+## Technical Skills
 
 - Programming Languages:  
 _C, C++, Python, SQL, R, Perl, Java, JavaScript, HTML , Bash_
