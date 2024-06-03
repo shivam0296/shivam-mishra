@@ -1,5 +1,5 @@
 # Software Developer  
-**DevOps | Big Data | Machine Learning**
+## DevOps | Big Data | Machine Learning
 
 **[LinkedIn](https://www.linkedin.com/in/shivam-mishra0296/)** | **[Github](https://github.com/shivam0296)**
 ![skills](/assets/img/skills_img.png)
